@@ -1,0 +1,20 @@
+{
+  "name": "@datatables.net/editor",
+  "version": "2.2.2",
+  "description": "DataTables Editor",
+  "main": "js/dataTables.editor.js",
+  "module": "js/dataTables.editor.mjs",
+  "types": "types/types.d.ts",
+  "keywords": [
+    "DataTables",
+    "Editor"
+  ],
+  "author": "SpryMedia Ltd",
+  "license": "SEE LICENSE IN License.md",
+  "publishConfig": {
+    "registry": "https://npm.datatables.net"
+  },
+  "dependencies": {
+    "datatables.net": "^1.13.0"
+  }
+}
